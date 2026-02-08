@@ -47,9 +47,9 @@ If you are seeking any form of academic communication or cooperation, please fee
 **[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 ---
-|IEEE Internet of Things Journal|IF=8.2| JCR-Q1 | 中科院二区 | Aug.1, 2025|
+|IEEE Internet of Things Journal|IF=8.2| JCR-Q1 |
 
-
+|中科院一区 | Aug.1, 2025|
 ---
 
 Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
@@ -144,15 +144,16 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](https://ieeexplore.ieee.org/abstract/document/10621369/)**
+**[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 ---
+|IEEE Internet of Things Journal|IF=8.2| JCR-Q1 |
 
-2023 IEEE International Conference on Computer Communications
+|中科院一区 | Aug.1, 2025|
 
-|CCF-A|20-05-2024|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
+---
 
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
 </div>
 
