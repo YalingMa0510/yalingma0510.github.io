@@ -47,9 +47,10 @@ If you are seeking any form of academic communication or cooperation, please fee
 **[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 ---
+|---|---|---|
 |IEEE Internet of Things Journal|IF=8.2| JCR-Q1 |
 
-|中科院一区 | Aug.1, 2025|
+| 中科院一区 | Aug.1, 2025| |
 
 Yaling Ma, et al.<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/e6ea5d4b-bf05-4588-838f-4edb8185b767" />
 
