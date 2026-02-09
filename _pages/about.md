@@ -120,6 +120,14 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
 </div> -->
+## 📜 Articles Cooperation with Others
+1. Junxiao Zhao, Yaling Ma, et al. "Cloud-edge Cooperative Distributed MPC with Event-triggered Communications for Heterogeneous Vehicle Platoon," IEEE Transactions on Vehicular Technology, vol. 73, no. 10, pp. 14425-14437, Oct. 2024, IF=6.1, DOI: [10.1109/TVT.2024.3405625](https://doi.org/10.1109/TVT.2024.3405625).
+2. Junxiao Zhao, Yaling Ma, et al. "Distributed Cloud MPC With Delay Compensation for Heterogeneous Vehicle Platoons," IEEE Transactions on Vehicular Technology, vol. 74, no. 8, pp. 11793-11805, Aug. 2025, IF=6.1, DOI: 10.1109/TVT.2025.3555172.
+3. Huan Yang, Yaling Ma, et al. "Resilient Output Feedback Tube-Based MPC for Cyber-Physical Systems Under Hybrid Attacks," IEEE Transactions on Circuits and Systems I: Regular Papers, IF=5.2，DOI: 10.1109/TCSI.2025.3597736.
+4. Huan Yang, Li Dai* (supervisor), Yaling Ma, et al. "Resilience Distributed MPC for Dynamically Coupled Multiple Cyber-physical Systems subject to Severe Attacks," IEEE Transactions on Systems, Man, and Cybernetics, vol. 55, no. 7, pp. 3193-3205, July 2025,  IF=10.5, DOI: 10.1109/TCYB.2025.3569377.
+5. Huan Yang, Li Dai* (supervisor), Yaling Ma, et al. "Resilient MPC with Switched Cost Functions for Cyber-Physical Systems Against DoS Attacks,"  IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 55, no. 7, pp. 4444-4457, July 2025, DOI: 10.1109/TSMC.2025.3555826.
+6. Chang Xi, Li Dai, Junxiao Zhao, Hanli Chen, Yaling Ma, et al.  "A Cloud–Edge–Vehicle Framework for Task Offloading With Trajectory Prediction Information," IEEE Internet of Things Journal, vol. 12, no. 20, pp. 42844-42862, Oct.15, 2025, IF=8.2, DOI: 10.1109/JIOT.2025.3596187.
+7. Jinxian Wu, Li Dai*, Yaling Ma, et al. “Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation,”  In Proceedings of 2021 China Automation Congress, DOI: 10.1109/CAC53003.2021.9728421.
 
 ## 📁 Patents
 - [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
