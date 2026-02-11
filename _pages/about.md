@@ -148,7 +148,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 3. **Distributed Model Predictive Control for Networked Control Systems **
       *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
       
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 | 04/2021  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Finalist Award (2/3) |
 |----------|-------------------------------------------------------------------------|-----------------|----------------------|
 | 04/2018  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Second Prize         |
@@ -168,7 +168,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 |          | Beijing Institute of Technology                                         |                 |                      |
 | 05/2023  | “Challenge Cup” Innovation Competition,                                 | University      | Gold Award           |
 |          | Beijing Institute of Technology                                         |                 |  (2/12)              |
-
+-->
 
 
 # 📚 Skills
