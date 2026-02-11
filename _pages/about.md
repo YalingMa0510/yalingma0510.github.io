@@ -128,7 +128,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 6. Chang Xi, Li Dai, Junxiao Zhao, Hanli Chen, Yaling Ma, et al.  "A Cloud–Edge–Vehicle Framework for Task Offloading With Trajectory Prediction Information," IEEE Internet of Things Journal, vol. 12, no. 20, pp. 42844-42862, Oct.15, 2025, IF=8.2, DOI: 10.1109/JIOT.2025.3596187.
 7. Jinxian Wu, Li Dai*, Yaling Ma, et al. “Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation,”  In Proceedings of 2021 China Automation Congress, DOI: 10.1109/CAC53003.2021.9728421.
 
-## 📁 Patents 
+## 📁 Patents and software copyright
 - [A Vehicle Energy Management Method Based on Container Cloud and Model Predictive Control
 ](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Issued), Li Dai (Supervisor), **Yaling Ma**. 202210816336X, China, 2025. 
 
