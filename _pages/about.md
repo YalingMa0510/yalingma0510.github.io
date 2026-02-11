@@ -62,8 +62,8 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 ---
 |IEEE Internet of Things Journal| | | |
----
-|IF=8.2| JCR-Q1 | 中科院一区 | Aug.1, 2025|
+
+|IF=8.2| JCR-Q1 | 中科院一区 |Aug.1, 2025|
 ---
 **Yaling Ma**; Huan Yang; Junxiao Zhao; Huahui Xie; Li Dai; Yuanqing Xia
 </div>
