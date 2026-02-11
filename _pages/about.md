@@ -1,4 +1,4 @@
----
+<img width="314" height="62" alt="image" src="https://github.com/user-attachments/assets/cfb92a4b-0c2c-446c-9764-df6a608530fd" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me 
-2025-2026 visiting PhD at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en).
+*2025-2026* visiting PhD in Mechanical manufacturing and biomedical engineering at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en)**(QS 75)**.
 
-2020-2026 MSc/PhD at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN).
+*2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) **(Outstanding Student)**.
 
-2016-2020 B. Eng. at University of Science and Technology Beijing.
+*2016-2020* B. Eng. in Automation major at University of Science and Technology Beijing **(GPA: 3.67/4)**.
 
 I’m a Phd candidate majoring in Control Science and engineering. Innovative researcher with 10 years of experience in Computing and Control, specializing in Model Predictive and Mode-switching Control, Cloud-Edge Computing, IoV, and Energy Management. Skilled in Robotics Control and Machine Learning, with strong capabilities in research design, independent development, and cross-team collaboration. Achievements include 10+ SCI papers, 2 patents, 1 software copyright, and leadership of 2 research projects with key contribution to another. Proficient in Python, MATLAB, and C programming, experienced in electronic system design.
 If you are seeking any form of academic communication or cooperation, please feel free to email me at [ma1821989042@gmail.com](mailto:ma1821989042@gmail.com).
@@ -75,7 +75,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 **[Cloud-Edge Cooperative MPC for Large-Scale Complex Systems With Input Nonlinearity](https://doi.org/10.1109/TASE.2024.3400598)**
 
-|IEEE Transactions on Automation Science and Engineering|| | |
+|IEEE Transactions on Automation Science and Engineering| | | |
 
 | IF=5.9| JCR-Q1 |中科院二区 | May.17, 2024|
 
@@ -125,10 +125,14 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 6. Chang Xi, Li Dai, Junxiao Zhao, Hanli Chen, Yaling Ma, et al.  "A Cloud–Edge–Vehicle Framework for Task Offloading With Trajectory Prediction Information," IEEE Internet of Things Journal, vol. 12, no. 20, pp. 42844-42862, Oct.15, 2025, IF=8.2, DOI: 10.1109/JIOT.2025.3596187.
 7. Jinxian Wu, Li Dai*, Yaling Ma, et al. “Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation,”  In Proceedings of 2021 China Automation Congress, DOI: 10.1109/CAC53003.2021.9728421.
 
-## 📁 Patents
-- [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
-- [A cloud-edge-device collaborative federated learning intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
-- [An edge device image classification method, device, storage medium, and product](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Weiqing Liu, Chuge Wu, Dihua Zhai, Yuan Zhang, Yuanqing Xia
+## 📁 Patents & software copyright
+- [A Vehicle Energy Management Method Based on Container Cloud and Model Predictive Control
+](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Issued), Li Dai (Supervisor), **Yaling Ma**. 202210816336X, China, 2025. 
+
+
+- [A predictive control method for vehicle platooning based on cloud-edge collaboration](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Accepted), Li Dai (Supervisor), Junxiao Zhao, **Yaling Ma**. 2023113383928, China, 2023. 
+
+- [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 🏷 Projects
 - *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
