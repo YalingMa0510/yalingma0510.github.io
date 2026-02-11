@@ -45,11 +45,11 @@ If you are seeking any form of academic communication or cooperation, please fee
 <div class='paper-box-text' markdown="1">
 
 **Failure-Resilient Self-Triggered Control with Cloud NMPC and Edge LMPC under Intermittent Availability**
----   
-|IEEE Transactions on Systems Man Cybernetics-Systems|IF=8.7| JCR-Q1 |
 
-| 中科院一区 TOP | Jan.30, 2026|Under Review|
----
+|IEEE Transactions on Systems Man Cybernetics-Systems| Under Review| | |
+
+|IF=8.7| JCR-Q1 | 中科院一区 TOP | Jan.30, 2026|
+
 **Yaling Ma**; Li Dai; Huahui Xie, Huan Yang; Siyuan Zhan, Junxiao Zhao;  Yuanqing Xia
 </div>
 </div>
@@ -75,9 +75,9 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 **[Cloud-Edge Cooperative MPC for Large-Scale Complex Systems With Input Nonlinearity](https://doi.org/10.1109/TASE.2024.3400598)**
 
-|IEEE Transactions on Automation Science and Engineering|IF=5.9| JCR-Q1 |
+|IEEE Transactions on Automation Science and Engineering|| | |
 
-| 中科院二区 | May.17, 2024| |
+| IF=5.9| JCR-Q1 |中科院二区 | May.17, 2024|
 
 **Yaling Ma**; Li Dai; Huan Yang; Junxiao Zhao; Runze Gao; Yuanqing Xia
 
@@ -90,12 +90,12 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 **[Cloud-Based Computational Model Predictive Control Using a Parallel Multiblock ADMM Approach](https://doi.org/10.1109/JIOT.2023.3238508)**
 
----
 
-|IEEE Internet of Things Journal|IF=11| JCR-Q1 |
 
-| 中科院一区 | Jun.15, 2023| |
----
+|IEEE Internet of Things Journal| | | |
+
+|IF=11| JCR-Q1| 中科院一区 | Jun.15, 2023|
+
 Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 </div>
 </div>
