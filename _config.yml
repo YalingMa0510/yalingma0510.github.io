@@ -24,11 +24,11 @@ author:
   name             : "Yaling Ma"
   avatar           : "images/life_photo.jpg"
   bio              : "Now in Trinity College Dublin"
+  googlescholar    : "https://scholar.google.com/citations?user=l6VozwgAAAAJ&hl=zh-CN"
+  email            : "ma1821989042@gmail.com"
   location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=l6VozwgAAAAJ&hl=zh-CN"
-  email            : "ma1821989042@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/maralyn-ma-826b30383/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-5484-985X"
+  orcid            : "https://orcid.org/0009-0009-7155-9462"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
