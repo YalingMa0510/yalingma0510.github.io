@@ -9,6 +9,8 @@
 title                    : "Yaling Ma(马亚玲)"
 description              : "Researcher in Nonlinear Model Predictive Control, Distributed optimization, Cloud-edge cooperative control, Robotics Control, IoV, and Energy Management."
 repository               : "mylove-520/yalingma0510.github.io"
+url: "https://mylove-520.github.io"
+baseurl: "/yalingma0510.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
