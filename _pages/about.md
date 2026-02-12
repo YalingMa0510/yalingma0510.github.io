@@ -137,8 +137,8 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - [A predictive control method for vehicle platooning based on cloud-edge collaboration](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Accepted), Li Dai (Supervisor), Junxiao Zhao, **Yaling Ma**. 2023113383928, China, 2023. 
 
 - [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 
-<span class='anchor' id='projects'></span>
 # 🏷 Projects
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
@@ -148,7 +148,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
 3. **Distributed Model Predictive Control for Networked Control Systems**  *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
 
-<!-- <span class='anchor' id='honors-and-awards'></span>       -->
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 # 🎖 Honors and Awards
 
 | Date    | Competition                                                     | Level         | Award |
@@ -166,7 +166,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 
 
-<!-- <span class='anchor' id='skills'></span> -->
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 # 📚 Skills
 - **Programming**: AI agent, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
 - **Hardware**: FPGA, STM32, PLC, intelligent hardware circuit design & development
