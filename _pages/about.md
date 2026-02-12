@@ -77,7 +77,7 @@ If you are seeking any form of academic communication or cooperation, please fee
   <div class='paper-box-image' style="height:auto; overflow:visible;">
     <div style="height:auto;">
       <div class="badge">TASE</div>
-      <img src="images/fig_paper2.jpg" alt="sym"
+      <img src="images/fig_paper2.pdf" alt="sym"
            style="width:100%; height:auto; display:block; object-fit:contain;">
     </div>
   </div>
