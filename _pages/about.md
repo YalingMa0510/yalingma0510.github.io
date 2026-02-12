@@ -73,12 +73,13 @@ If you are seeking any form of academic communication or cooperation, please fee
 </div>
 
 
+
 <div class='paper-box'>
   <div class='paper-box-image' style="height:auto; overflow:visible;">
     <div style="height:auto;">
       <div class="badge">TASE</div>
-      <img src="images/fig_paper2.pdf" alt="sym"
-           style="width:100%; height:auto; display:block; object-fit:contain;">
+        <embed src="images/fig_paper2.pdf" type="application/pdf"
+               style="width:100%; height:260px;" />
     </div>
   </div>
 
