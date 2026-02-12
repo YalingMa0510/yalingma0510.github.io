@@ -1,19 +1,20 @@
 # main links links
+# main links links
 main:
   - title: "About Me"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "/#about-me"
+  
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#-publications"
-
-  - title: "Projects"
-    url: "{{ site.baseurl }}/#-projects"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "{{ site.baseurl }}/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Skills"
-    url: "{{ site.baseurl }}/#-skills"
+    url: "/#-skills"
 
 
   # - title: "Internships and Experiences"
