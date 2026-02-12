@@ -150,7 +150,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
       *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
 
 <span class='anchor' id='honors-and-awards'></span>      
-## <i class="fas fa-award"></i> Honors and Awards {#honors-and-awards}
+## 🎖 Honors and Awards {#honors-and-awards}
 
 | Date    | Competition                                                     | Level         | Award |
 |---------|------------------------------------------------------------------|---------------|-------|
