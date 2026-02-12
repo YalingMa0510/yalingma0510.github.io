@@ -1,4 +1,4 @@
-<img width="314" height="62" alt="image" src="https://github.com/user-attachments/assets/cfb92a4b-0c2c-446c-9764-df6a608530fd" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -128,7 +128,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 6. Chang Xi, Li Dai, Junxiao Zhao, Hanli Chen, Yaling Ma, et al.  "A Cloud–Edge–Vehicle Framework for Task Offloading With Trajectory Prediction Information," IEEE Internet of Things Journal, vol. 12, no. 20, pp. 42844-42862, Oct.15, 2025, IF=8.2, DOI: 10.1109/JIOT.2025.3596187.
 7. Jinxian Wu, Li Dai*, Yaling Ma, et al. “Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation,”  In Proceedings of 2021 China Automation Congress, DOI: 10.1109/CAC53003.2021.9728421.
 
-## 📁 Patents and software copyright
+## 📁 Patents & software copyright
 - [A Vehicle Energy Management Method Based on Container Cloud and Model Predictive Control
 ](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Issued), Li Dai (Supervisor), **Yaling Ma**. 202210816336X, China, 2025. 
 
@@ -148,7 +148,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 3. **Distributed Model Predictive Control for Networked Control Systems **
       *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
       
-<!-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 | 04/2021  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Finalist Award (2/3) |
 |----------|-------------------------------------------------------------------------|-----------------|----------------------|
 | 04/2018  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Second Prize         |
@@ -168,7 +168,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 |          | Beijing Institute of Technology                                         |                 |                      |
 | 05/2023  | “Challenge Cup” Innovation Competition,                                 | University      | Gold Award           |
 |          | Beijing Institute of Technology                                         |                 |  (2/12)              |
--->
+
 
 
 # 📚 Skills
