@@ -40,9 +40,9 @@ If you are seeking any form of academic communication or cooperation, please fee
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<span class='anchor' id='publications'></span>
+<!-- <span class='anchor' id='publications'></span> -->
 # 📝 Publications 
-## 📜 Articles(* denotes equal contribution)
+## 📜 My Articles(* denotes equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig_paper3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -145,10 +145,10 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 2. **Design and Development of an Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
 - **Summary**: Designed embedded and PC-based control software enabling autonomous perception, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
-3. **Distributed Model Predictive Control for Networked Control Systems **  *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
+3. **Distributed Model Predictive Control for Networked Control Systems**  *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
 
-<span class='anchor' id='honors-and-awards'></span>      
-## 🎖 Honors and Awards {#honors-and-awards}
+<!-- <span class='anchor' id='honors-and-awards'></span>       -->
+# 🎖 Honors and Awards
 
 | Date    | Competition                                                     | Level         | Award |
 |---------|------------------------------------------------------------------|---------------|-------|
@@ -165,7 +165,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 
 
-<span class='anchor' id='skills'></span>
+<!-- <span class='anchor' id='skills'></span> -->
 # 📚 Skills
 - **Programming**: AI agent, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
 - **Hardware**: FPGA, STM32, PLC, intelligent hardware circuit design & development
