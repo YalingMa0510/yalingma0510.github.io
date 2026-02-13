@@ -20,5 +20,5 @@ main:
   # - title: "Internships and Experiences"
   #   url: "/#-internships-and-experiences"
 
-  # - title: "Links"
-  #   url: "/#-links"
+  - title: "Links"
+    url: "/#-links"
